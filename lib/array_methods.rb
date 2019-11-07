@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array.sort = [num1, num5, num3, num2, num4]
+  numbers.sort = [1,5,2,4,3]
 end
 
 using_sort
