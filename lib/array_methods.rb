@@ -2,7 +2,7 @@ def using_include(array, element)
   array.include?(element)
 end
 
-def using_sort(array)
+def using_sort(array,numbers)
   numbers.sort = [1,5,2,4,3]
 end
 
