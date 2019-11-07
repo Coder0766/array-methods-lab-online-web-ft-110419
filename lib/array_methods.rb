@@ -3,10 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(sort,array)
-  numbers.sort = [1,5,2,4,3]
+  array.sort
 end
-
-using_sort
 
 def using_reverse(array)
 
