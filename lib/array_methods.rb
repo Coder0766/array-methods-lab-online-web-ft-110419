@@ -3,7 +3,6 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-    array = [num1, num5, num3, num2, num4]
     array.sort[num1, num5, num3, num2, num4]
 end    
 
